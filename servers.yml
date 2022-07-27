@@ -1,6 +1,8 @@
+# Should send random to a server
 Bedwars:
-  - bedwars
+  - bedwars1
   - bedwars2
 lobby:
   - lobby1
   - lobby2
+  - lobby3
