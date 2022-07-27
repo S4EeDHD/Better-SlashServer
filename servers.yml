@@ -1,7 +1,10 @@
 # Should send random to a server
+
+# /bedwars
 Bedwars:
   - bedwars1
   - bedwars2
+# /lobby
 lobby:
   - lobby1
   - lobby2
